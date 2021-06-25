@@ -37,6 +37,14 @@ function Cards() {
 
                             />
                             </Fade>
+                            <Fade left>
+                            <Carditems 
+                            src='/intro-bg.jpeg'
+                            text= 'company website for Millers Collections'
+                            label='Website'
+                            href='https://millerscollections.vercel.app/'
+                            />
+                            </Fade>
                         </ul>
                     </div>
                 </div>
