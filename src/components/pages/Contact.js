@@ -7,7 +7,7 @@ function Contact() {
     function sendEmail(e) {
         e.preventDefault();
     
-        emailjs.sendForm('JaydensGmail', 'Portfolio', e.target, "")
+        emailjs.sendForm('JaydensGmail', 'Portfolio', e.target, "user_EtXW6MpURf6VmoLWceaIV")
           .then((result) => {
               console.log(result.text);
           }, (error) => {
