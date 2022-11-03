@@ -26,6 +26,14 @@ function Cards() {
                             href='https://ignindiegames.herokuapp.com/'
                             />
                             </Fade>
+                            <Fade right>
+                            <Carditems 
+                            src='/weatherApp.png'
+                            text= 'Awesome and very easy to use weather app'
+                            label='Website'
+                            href='https://ezweatherapp.netlify.app'
+                            />
+                            </Fade>
                         </ul>
                         <ul className="cards__items">
                             <Fade top>
