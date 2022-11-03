@@ -12,15 +12,15 @@ function Cards() {
                         <ul className="cards__items">
                             <Fade left>
                             <Carditems 
-                            src='/LogoTwo.png'
-                            text= 'Backcountry Taxidermy Company website'
+                            src='/news.png'
+                            text= 'My news application, View top headlines today'
                             label='Website'
-                            href='https://backcountrytax.com'
+                            href='https://topnewsus.netlify.app'
                             />
                             </Fade>
                             <Fade right>
                             <Carditems 
-                            src='/4:5.png'
+                            src='/80percent.png'
                             text= '4/5 Gaming my final project from Dev Point Labs'
                             label='Website'
                             href='https://ignindiegames.herokuapp.com/'
@@ -34,15 +34,15 @@ function Cards() {
                             text= 'Dont Bloat The Chicken. A game i made with C#'
                             label='Mobile Game'
                             href='https://play.google.com/store/apps/details?id=com.MountainViewGaming.DontBloatTheChicken&hl=en_US&gl=US'
-
+                            
                             />
                             </Fade>
                             <Fade left>
                             <Carditems 
-                            src='/intro-bg.jpeg'
-                            text= 'company website for Millers Collections'
+                            src='/LogoTwo.png'
+                            text= 'Backcountry Taxidermy Company website. Static'
                             label='Website'
-                            href='https://millerscollections.vercel.app/'
+                            href='https://backcountrytax.com'
                             />
                             </Fade>
                         </ul>
